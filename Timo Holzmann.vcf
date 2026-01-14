@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.2//EN
+N:Holzmann;Timo;;;
+FN:Timo Holzmann
+EMAIL;type=INTERNET;type=WORK;type=pref:timo.holzmann@labbinaer.de
+ADR;type=HOME;type=pref:;;Müllerstraße 12a;Augsburg;;86153;Germany
+item1.URL;type=pref:https://labbinaer.de/projects
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
