@@ -3,9 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//macOS 26.2//EN
 N:Holzmann;Timo;;;
 FN:Timo Holzmann
+ORG:LAB BINÆR . Lab for Media Art;
+TITLE:Werkstudent
 EMAIL;type=INTERNET;type=WORK;type=pref:timo.holzmann@labbinaer.de
+TEL;type=WORK;type=VOICE:+49 821 4496610
 ADR;type=HOME;type=pref:;;Müllerstraße 12a;Augsburg;;86153;Germany
 item1.URL;type=pref:https://labbinaer.de/projects
 item1.X-ABLabel:_$!<HomePage>!$_
+BDAY:1996-07-07
 END:VCARD
-
