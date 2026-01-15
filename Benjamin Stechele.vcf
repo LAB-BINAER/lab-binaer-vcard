@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 26.2//EN
+N:Stechele;Benjamin;;;
+FN:Benjamin Stechele
+ORG:LAB BINÆR . Lab for Media Art;
+TITLE:Inhaber . Creative Director
+EMAIL;type=INTERNET;type=WORK;type=pref:benjamin.stechele@labbinaer.de
+TEL;type=CELL;type=VOICE;type=pref:+49 174 9040988
+TEL;type=WORK;type=VOICE:+49 821 4496610
+ADR;type=pref:;;12a Müllerstr;Augsburg;;86153;DE
+NOTE:ehem. Mayer\nGeburtsort Bobingen
+item1.URL;type=pref:www.labbinaer.de
+item1.X-ABLabel:_$!<HomePage>!$_
+BDAY:1980-08-25
+END:VCARD
