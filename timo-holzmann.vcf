@@ -6,9 +6,10 @@ FN:Timo Holzmann
 ORG:LAB BINÆR . Lab for Media Art;
 TITLE:Werkstudent
 EMAIL;type=INTERNET;type=WORK;type=pref:timo.holzmann@labbinaer.de
+TEL;type=CELL;type=VOICE;type=pref:
 TEL;type=WORK;type=VOICE:+49 821 4496610
-ADR;type=HOME;type=pref:;;Müllerstraße 12a;Augsburg;;86153;Germany
-item1.URL;type=pref:https://labbinaer.de/projects
+ADR;type=pref:;;12a Müllerstr;Augsburg;;86153;DE
+item1.URL;type=pref:www.labbinaer.de
 item1.X-ABLabel:_$!<HomePage>!$_
 BDAY:1996-07-07
 END:VCARD
